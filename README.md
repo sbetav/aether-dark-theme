@@ -3,6 +3,10 @@
 Aether Dark is a polished dark theme for Visual Studio Code.
 It keeps warm, expressive syntax while using calm cyan accents across the editor UI for a clean, focused coding experience.
 
+![Aether Dark theme screenshot](images/screenshot.png)
+
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=sbetav.aether-dark-theme) · [Open VSX](https://open-vsx.org/extension/sbetav/aether-dark-theme)
+
 ## Highlights
 
 - Neutral charcoal backgrounds with balanced contrast
@@ -24,6 +28,16 @@ It keeps warm, expressive syntax while using calm cyan accents across the editor
 1. Open your VS Code-compatible editor extensions view
 2. Search for `Aether Dark`
 3. Install and activate the theme
+
+## Marketplace Pages
+
+- VS Code: https://marketplace.visualstudio.com/items?itemName=sbetav.aether-dark-theme
+- Open VSX: https://open-vsx.org/extension/sbetav/aether-dark-theme
+
+## Assets
+
+- Marketplace icon: `images/icon.png` (512x512)
+- Preview screenshot: `images/screenshot.png` (1920x1200)
 
 ## Development
 

@@ -2,9 +2,11 @@
   "name": "aether-dark-theme",
   "displayName": "Aether Dark",
   "description": "A polished dark theme with cyan UI accents and warm, expressive syntax inspired by Ayu.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "sbetav",
   "license": "MIT",
+  "icon": "images/icon.png",
+  "preview": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/sbetav/aether-dark-theme.git"
@@ -25,6 +27,10 @@
   "galleryBanner": {
     "color": "#17191d",
     "theme": "dark"
+  },
+  "homepage": "https://github.com/sbetav/aether-dark-theme#readme",
+  "bugs": {
+    "url": "https://github.com/sbetav/aether-dark-theme/issues"
   },
   "contributes": {
     "themes": [
