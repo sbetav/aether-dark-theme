@@ -1,0 +1,47 @@
+{
+  "name": "aether-dark-theme",
+  "displayName": "Aether Dark",
+  "description": "A polished dark theme with cyan UI accents and warm, expressive syntax inspired by Ayu.",
+  "version": "0.1.0",
+  "publisher": "sbetav",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbetav/aether-dark-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "aether",
+    "dark",
+    "cyan",
+    "blue"
+  ],
+  "galleryBanner": {
+    "color": "#17191d",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aether Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aether-dark.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package:vscode": "npx @vscode/vsce package",
+    "publish:vscode": "npx @vscode/vsce publish",
+    "publish:openvsx": "npx ovsx publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.6.0",
+    "ovsx": "^0.10.5"
+  }
+}
